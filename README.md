@@ -20,7 +20,7 @@ Um aplicativo Flutter para buscar endereços com o CEP.
 - Integração com WebServices
 
 ## Como Usar
-- Insira so CEP no campo.
+- Insira o número do CEP no campo.
 - Veja o resultado.
 
 ## Contribuição

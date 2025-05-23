@@ -1,16 +1,32 @@
-# cep
+# Buscador de CEP
 
-A new Flutter project.
+Um aplicativo Flutter para buscar endereços com o CEP.
 
-## Getting Started
+## Matrícula dos Componentes da Dupla
+- Eduardo Martins Cardoso
+- Breno Tonini Costa
 
-This project is a starting point for a Flutter application.
+## Capturas de Tela do Aplicativo
+<img src="assets/screenshot_buscadorCEP" alt="Captura de Tela do Aplicativo Buscador de CEP" width="200">
 
-A few resources to get you started if this is your first Flutter project:
+## Recursos
+- Campo para inserção do CEP
+- Uso da api do ViaCEP
+- Exibição do resultado da busca
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tecnologias Utilizadas
+- Flutter (Framework de UI)
+- Dart (Linguagem de Programação)
+- Integração com WebServices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Usar
+- Insira so CEP no campo.
+- Veja o resultado.
+
+## Contribuição
+
+Projeto acadêmico não aberto para contribuições externas. No entanto, sinta-se à vontade para clonar o repositório e realizar modificações para aprendizado pessoal.
+
+---
+
+Desenvolvido como parte da disciplina **Aplicativos Mobile - Faculdade UCL**.
